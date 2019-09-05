@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to the first Git Project i have made
 
-I'm glad you are here. I plan to talk about ...
+This might work eventually 
