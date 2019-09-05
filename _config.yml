@@ -1,13 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "First GitPage"
+date: 2019-09-05
+---
+theme: minima
+title: My first GitPage 
+author: JoshDGarton
+email: Josh.d.garton@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This is the first GitPage i have made as part of self learning on Git
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @wolf1790
+github_username:  JoshDGarton
 
 show_excerpts: true # set to false to remove excerpts on the homepage
